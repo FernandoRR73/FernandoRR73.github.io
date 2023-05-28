@@ -7,10 +7,12 @@
 
     mkdocs.yml    # The configuration file.
     docs/
-        -index.md           # Indice de nuestro projecto
+        - index.md              # Indice de nuestro projecto
 
-        -tecnologias usadas # Tecnologias que se han usado en el projecto
+        - tecnologias.md        # Tecnologias que se han usado en el projecto
 
-        -Organizacion       # Que parte del projecto ha hecho cada uno
+        - Organizacion.md       # Que parte del projecto ha hecho cada uno
 
-        -problemas.md       # Problemas que hemos tenido
+        - problemas.md          # Problemas que hemos tenido
+
+        - changelog.md          # Registro de cambios del projecto
