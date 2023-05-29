@@ -6,6 +6,7 @@ nav:
    - tecnologias: tecnologias usadas.md
    - problemas: problemas.md
    - organizacion: organizacion.md
-   - changelog: changelog.md
+   - devlog: devlog.md
+   - guion y funcionamiento: guion_funcionamiento.md
 
 theme: readthedocs
