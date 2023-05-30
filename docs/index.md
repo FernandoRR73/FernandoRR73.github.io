@@ -15,4 +15,4 @@
 
         - problemas.md          # Problemas que hemos tenido
 
-        - changelog.md          # Registro de cambios del projecto
+        - devlog.md             # Diario de avances del proyecto
