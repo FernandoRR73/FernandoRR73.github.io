@@ -28,3 +28,15 @@ que ya estan desarrolladas
 Logramos el desarrollo del proceso del login de los
 usuarios y empezamos a limpiar la documentacion y a subirla 
 a github
+
+### 28/5/23
+
+Se crea el guarda_ayuda.jsp, que no ayuda a guardar las ayudas para despues poder mostrarlas en la vista del usuario
+
+### 29/5/23
+
+Se crea un admin y una vista admin, para poder modificar algunas cosas desde dentro
+
+### 30/5/23
+
+Se arregla el admin y en la vista contribuyente ponemos la lista de las ayudas con los datos de contacto de los solicitantes
